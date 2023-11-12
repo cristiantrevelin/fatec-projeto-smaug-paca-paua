@@ -1,0 +1,1 @@
+Projeto desenvolvido em Python 3.8.5, com o auxílio da biblioteca Pygame 2.5.2
